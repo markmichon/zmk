@@ -40,9 +40,9 @@
 };
 
 &default_transform {
-	col-offset = <5>;
+	col-offset = <6>;
 };
 
 &five_column_transform {
-	col-offset = <6>;
+	col-offset = <5>;
 };
